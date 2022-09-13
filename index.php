@@ -22,7 +22,9 @@ include("conectar.php");
         <br>
         <input type="submit" name="registrar" value="registrar">
     </form>
-    
+    <h1>
+        hola a todos
+    </h1>
     <table>
 
         <tr>
